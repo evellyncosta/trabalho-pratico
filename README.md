@@ -1,7 +1,7 @@
 # Trabalho pratico
 Trabalho pratico da disciplina de logica de programacao e algoritmos
 
-##Instrucoes
+## Instrucoes
 As questoes foram divididas em arquivos. Cada arquivo representa uma questao diferente. 
 Para rodar o código, execute o comando:
 `python3 "nome_do_arquivo.py"`
